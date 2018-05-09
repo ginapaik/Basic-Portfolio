@@ -40,14 +40,18 @@ a {
     text-decoration: none;
     color: #777777;
 }
+
 .container {
     margin: auto;
     width: 800px;
     background-color: #ffffff;
-    padding: 20px;
+    padding: 20px;  
+    border-radius: 10px; 
 }
 
-    
+img {
+    margin: 10px;
+}   
 footer {
     border: 1px solid #cccccc;
     border-top: 10px solid #4aaaa5;

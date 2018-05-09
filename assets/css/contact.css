@@ -54,10 +54,9 @@ div {
     margin: auto;
     width: 800px;
     background-color: #ffffff;
-    padding: 20px;
-    
-    
+    padding: 20px;   
 }
+
 input[type=text],textarea{
     width: 100%;
     padding: 12px;
