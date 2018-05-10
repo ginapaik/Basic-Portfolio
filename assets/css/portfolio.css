@@ -17,6 +17,8 @@ header {
     background: #ffffff;
 }
 
+
+
 .box {
     height: 38px;
     width: 200px;
@@ -47,11 +49,14 @@ a {
     background-color: #ebebeb;
     padding: 20px;  
     border-radius: 10px; 
+    height: 700px;
 }
 
 img {
     margin: 10px;
-}   
+  
+} 
+
 footer {
     border: 1px solid #cccccc;
     border-top: 10px solid #4aaaa5;
@@ -65,4 +70,67 @@ footer {
     margin-left: -10px;
     margin-right: -10px;
     font-size: 16px;
+}
+
+
+
+.gsdpuppy {
+    border: 1px solid #4aaaa5;
+    background: #4aaaa5;
+    color: floralwhite;
+    height: auto;
+    width: 198px;
+    position: relative;
+    top: -70px;
+    left: 10px;
+}
+
+.froggypuppy {
+    border: 1px solid #4aaaa5;
+    background: #4aaaa5;
+    color: floralwhite;
+    height: auto;
+    width: 198px;
+    position: relative;
+    top: -70px;
+    left: 10px;
+}
+
+.happypuppy {
+    border: 1px solid #4aaaa5;
+    background: #4aaaa5;
+    color: floralwhite;
+    height: auto;
+    width: 198px;
+    position: relative;
+    top: -70px;
+    left: 10px;  
+}
+
+.threepuppies {
+    border: 1px solid #4aaaa5;
+    background: #4aaaa5;
+    color: floralwhite;
+    height: auto;
+    width: 198px;
+    position: relative;
+    top: -70px;
+    left: 10px;
+}
+
+#frog {
+    position: relative;
+    top: -245px;
+    left: 230px;
+}
+
+#happy {
+    position: relative;
+    top: -270px;
+}
+
+#three {
+    position: relative;
+    top: -515px;
+    left: 230px;
 }
