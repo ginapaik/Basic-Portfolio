@@ -17,8 +17,35 @@ header {
     background: #ffffff;
 }
 
+.container {
+    border: 1px solid #cccccc;
+    width: 40%;
+    margin: -15px auto;
+    background: #ebebeb;
+    text-align: left;
+    padding: 30px;
+    height: auto;
+    font-size: 25px;
+    font-family: Georgia;
+    border-radius: 10px;
+}
 
-.box {
+.heading {
+    color: #4aaaa5;
+
+}
+
+h4 {
+    color: #4aaaa5;
+    height: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #777777;
+}
+
+#box {
     height: 38px;
     width: 200px;
     border: 1px solid #4aaaa5;
@@ -33,25 +60,9 @@ header {
     font-size: 30px;
 }
 
-h2 {
-    color: #4aaaa5;
-}
-
-a {
-    text-decoration: none;
-    color: #777777;
-}
-
-.container {
-    margin: auto;
-    width: 800px;
-    background-color: #ffffff;
-    padding: 20px;   
-}
-
 input[type=text],textarea{
     width: 100%;
-    padding: 12px;
+    padding: 10px;
     border: 1px solid lightgrey;
     margin-top: 6px;
     margin-bottom: 16px;
@@ -68,6 +79,10 @@ input[type=submit]{
     cursor: pointer;
 }
 
+label {
+    font-size: 16px;
+}
+
 footer {
     border: 1px solid #cccccc;
     border-top: 10px solid #4aaaa5;
@@ -75,10 +90,13 @@ footer {
     text-align: center;
     background: #666666;
     position: relative;
-    bottom: -83px;
+    bottom: -70px;
     color: floralwhite;
     padding-top: 30px;
     margin-left: -10px;
     margin-right: -10px;
     font-size: 16px;
 }
+
+
+
