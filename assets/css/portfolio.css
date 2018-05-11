@@ -3,6 +3,8 @@ body {
     font-family: Georgia;
     background: #dddddd;
     color: #777777;
+    background: linear-gradient(to right, darkgrey, lightgrey, white, lightgrey, darkgrey); 
+    font-family: 'Dancing Script', cursive;
 }
 
 header {
@@ -14,7 +16,8 @@ header {
     margin-top: -10px;
     margin-left: -10px;
     margin-right: -10px;
-    background: #ffffff;
+    background: #ebebeb94;
+    font-size: 22px;
 }
 
 .box {
@@ -30,6 +33,7 @@ header {
     border-radius: 5px;
     color: floralwhite;
     font-size: 30px;
+    text-shadow: 2px 2px 5px #777777;
 }
 
 h2 {
@@ -49,12 +53,12 @@ a {
     padding: 20px;  
     border-radius: 10px; 
     height: 700px;
-    background-image: url(spiration-light.png)
+    background-image: url(spiration-light.png);
+    font-family: 'Handlee', cursive;
 }
 
 img {
     margin: 10px;
-  
 } 
 
 footer {
@@ -71,8 +75,6 @@ footer {
     margin-right: -10px;
     font-size: 16px;
 }
-
-
 
 .gsdpuppy {
     border: 1px solid #4aaaa5;
@@ -116,7 +118,7 @@ footer {
 
 #frog {
     position: relative;
-    top: -245px;
+    top: -252px;
     left: 230px;
 }
 
@@ -127,6 +129,6 @@ footer {
 
 #three {
     position: relative;
-    top: -515px;
+    top: -521px;
     left: 230px;
 }

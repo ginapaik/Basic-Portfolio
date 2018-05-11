@@ -3,7 +3,10 @@ body {
     font-family: Georgia;
     background: #dddddd;
     color: #777777;
+    background: linear-gradient(to right, darkgrey, lightgrey, white, lightgrey, darkgrey); 
+    font-family: 'Dancing Script', cursive;
 }
+
 
 header {
     border: 1px solid #cccccc;
@@ -14,7 +17,8 @@ header {
     margin-top: -10px;
     margin-left: -10px;
     margin-right: -10px;
-    background: #ffffff;
+    background: #ebebeb94;
+    font-size: 22px;
 }
 
 .container {
@@ -26,7 +30,7 @@ header {
     padding: 30px;
     height: auto;
     font-size: 25px;
-    font-family: Georgia;
+    font-family: 'Handlee', cursive;
     border-radius: 10px;
     background-image: url(spiration-light.png)
 }
@@ -60,6 +64,7 @@ a {
     border-radius: 5px;
     color: floralwhite;
     font-size: 30px;
+    text-shadow: 2px 2px 5px #777777;
 }
 
 input[type=text],textarea{
