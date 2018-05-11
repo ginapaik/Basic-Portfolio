@@ -17,8 +17,6 @@ header {
     background: #ffffff;
 }
 
-
-
 .box {
     height: 38px;
     width: 200px;
@@ -51,6 +49,7 @@ a {
     padding: 20px;  
     border-radius: 10px; 
     height: 700px;
+    background-image: url(spiration-light.png)
 }
 
 img {
@@ -78,7 +77,6 @@ footer {
 .gsdpuppy {
     border: 1px solid #4aaaa5;
     background: #4aaaa5;
-    color: floralwhite;
     height: auto;
     width: 198px;
     position: relative;
@@ -89,7 +87,6 @@ footer {
 .froggypuppy {
     border: 1px solid #4aaaa5;
     background: #4aaaa5;
-    color: floralwhite;
     height: auto;
     width: 198px;
     position: relative;
@@ -100,7 +97,6 @@ footer {
 .happypuppy {
     border: 1px solid #4aaaa5;
     background: #4aaaa5;
-    color: floralwhite;
     height: auto;
     width: 198px;
     position: relative;
@@ -111,7 +107,6 @@ footer {
 .threepuppies {
     border: 1px solid #4aaaa5;
     background: #4aaaa5;
-    color: floralwhite;
     height: auto;
     width: 198px;
     position: relative;
